@@ -50,6 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatabaseContext.cs" />
+    <Compile Include="Entities\User\UserLogin.cs" />
+    <Compile Include="Entities\User\UserProfile.cs" />
+    <Compile Include="Entities\User\Userrole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
