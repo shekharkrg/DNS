@@ -16,8 +16,13 @@
         public DateTime DateOfJoin { get; set; }
         public string ProfilePic { get; set; }
         public string Description { get; set; }
+        public string WebsiteLink { get; set; }
+        public string TwitterProfileLink { get; set; }
+        public string FacebookProfileLink { get; set; }
+        public string LinkedInProfileLink { get; set; }
 
-        //Add List of Experties
+        //TODO: Add List of Recognizations/Awards
+        //TODO: Add List of Experties
 
         public int UserLoginID { get; set; }
         public virtual UserLogin UserLogin { get; set; }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnsWeb", "DnsWeb\DnsWeb.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{461D52AF-54C0-41A2-8ECA-1F2ED709F8DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{8ED0889D-4969-48B6-8345-C22360F306D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{461D52AF-54C0-41A2-8ECA-1F2ED709F8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{461D52AF-54C0-41A2-8ECA-1F2ED709F8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{461D52AF-54C0-41A2-8ECA-1F2ED709F8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED0889D-4969-48B6-8345-C22360F306D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED0889D-4969-48B6-8345-C22360F306D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED0889D-4969-48B6-8345-C22360F306D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED0889D-4969-48B6-8345-C22360F306D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
