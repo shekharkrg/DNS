@@ -1,4 +1,4 @@
-﻿namespace DataBase
+﻿namespace DNS.Entities
 {
     #region Usings
     using System;

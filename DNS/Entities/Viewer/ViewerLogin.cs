@@ -1,9 +1,6 @@
-﻿namespace DataBase
+﻿namespace DNS.Entities
 {
-    #region usings
     using Shared;
-    #endregion
-
     public class ViewerLogin
     {
         public int ViewerLoginID { get; set; }
